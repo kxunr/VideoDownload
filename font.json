@@ -2,11 +2,11 @@
   {
     "font_name": "Pyidaungsu",
     "preview_text": "မြန်မာနိုင်ငံ၏ လွတ်လပ်ရေး",
-    "ttf_url": "https://raw.githubusercontent.com/your-username/your-repo/main/Pyidaungsu.ttf"
+    "ttf_url": "https://github.com/khonsoe/uFontTTF/raw/refs/heads/master/Fonts/Myanamr/MyanmarCherry.ttf"
   },
   {
     "font_name": "Zawgyi One",
-    "preview_text": "ျမန္မာႏိုင္ငံ၏ လြတ္လပ္ေရး",
-    "ttf_url": "https://raw.githubusercontent.com/your-username/your-repo/main/Zawgyi-One.ttf"
+    "preview_text": "မြန်မာနိုင်ငံ၏ လွတ်လပ်ရေး",
+    "ttf_url": "https://github.com/khonsoe/uFontTTF/raw/refs/heads/master/Fonts/Myanamr/MyanmarFlower.ttf"
   }
 ]
